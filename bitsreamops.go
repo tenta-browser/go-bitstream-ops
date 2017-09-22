@@ -20,6 +20,7 @@
  * bitstreamops.go: Bitstream wrapper and operations
  */
 
+// Provides some basic wrapper interfaces around byte arrays to operate on them as bitstreams.
 package bitstreamops
 
 import (

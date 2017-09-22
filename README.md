@@ -1,6 +1,8 @@
 Go Bitstream Ops
 ================
 
+[![GoDoc](https://godoc.org/github.com/tenta-browser/go-bitstream-ops?status.svg)](https://godoc.org/github.com/tenta-browser/go-bitstream-ops)
+
 Provides some basic wrapper interfaces around byte arrays to operate on them as bitstreams.
 
 Contact: developer@tenta.io
